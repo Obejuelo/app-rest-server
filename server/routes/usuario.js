@@ -142,6 +142,4 @@ app.delete('/usuario/:id', verificaToken, (req, res) => {
 
 });
 
-
-
 module.exports = app;
